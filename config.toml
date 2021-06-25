@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://lifetechxseed.github.io/Blog/"
 languageCode = "en-us"
 title = "Life tech blog"
 theme = "ananke"
