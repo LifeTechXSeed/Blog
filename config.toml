@@ -2,3 +2,7 @@ baseURL = "https://lifetechxseed.github.io/Blog/"
 languageCode = "en-us"
 title = "Life tech blog"
 theme = "ananke"
+
+[params]
+    site_logo = "images/logo.png"
+    disable_share = true
